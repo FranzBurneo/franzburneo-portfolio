@@ -13,4 +13,4 @@ This portfolio showcases real-world applications, focusing on scalable backend s
 - Flutter
 
 ## 🌐 Live
-👉 https://FranzBurneo.github.io/portafolio-2026/
+👉 [https://FranzBurneo.github.io/portafolio-2026/](https://franzburneo.github.io/franzburneo-portfolio/)
